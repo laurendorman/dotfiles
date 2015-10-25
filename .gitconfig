@@ -1,6 +1,6 @@
 [user]
 	name = Lauren Dorman
-	email = lauren@heysparkbox.com
+	email = hello@laurendorman.io
 [filter "media"]
 	clean = git media clean %f
 	smudge = git media smudge %f
